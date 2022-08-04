@@ -58,4 +58,4 @@ A PID-controller is also integrated into the planner to minimize tracking errors
 
 [Time-Optimal Trajectory Planning Along Predefined Path](https://escholarship.org/uc/item/58r3063m)
 
-[Inverse Kinematics Model of Car-like Robots - Chapter 13](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+[Inverse Kinematics Model for Car-like Robots - Chapter 13](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
