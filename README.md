@@ -52,3 +52,10 @@ A PID-controller is also integrated into the planner to minimize tracking errors
 
 ![alt text](https://github.com/TuanMinhNguyen15/Time-Optimal-Trajectory-Planning/raw/main/images/demo_vel_star.png)
 ![alt text](https://github.com/TuanMinhNguyen15/Time-Optimal-Trajectory-Planning/raw/main/images/demo_steer_star.png)
+
+## References
+[Convex Elastic Smoothing](https://arxiv.org/abs/1506.01085)
+
+[Time-Optimal Trajectory Planning Along Predefined Path](https://escholarship.org/uc/item/58r3063m)
+
+[Inverse Kinematics Model of Car-like Robots - Chapter 13](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
